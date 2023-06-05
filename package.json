@@ -1,0 +1,22 @@
+{
+  "name": "git-flow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VitaliySadovoy/git-flow.git"
+  },
+  "author": "Vitaliy Sadovoy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VitaliySadovoy/git-flow/issues"
+  },
+  "homepage": "https://github.com/VitaliySadovoy/git-flow#readme",
+  "devDependencies": {
+    "sass": "^1.62.1"
+  }
+}
